@@ -1,2 +1,3 @@
 # demo-aryan
-My first Git repository.Your Author(Aryan Mahile).
+My first Git repository.
+Your Author(Aryan Mahile).
